@@ -1,10 +1,5 @@
 # Django
 
-Course: Computer Science Project (https://www.notion.so/Computer-Science-Project-ed0d09701f4541a094af1a25946d235e?pvs=21)
-Confidence: Not Confident
-Last Edited: June 6, 2024 11:01 PM
-Is Completed: No
-
 # 设计模式
 
 Django无需数据库就可以使用，因为它提供了对象关系映射器，通过此技术，你可以使用 Python 代码来描述数据库结构。
